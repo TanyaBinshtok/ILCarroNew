@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoginTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-10-22T08:30:10" hostname="TALIBINSHTOK" time="5.284">
+  <properties/>
+  <testcase name="loginPositiveTest" classname="LoginTests" time="1.894"/>
+  <testcase name="loginPositiveTest1" classname="LoginTests" time="1.181"/>
+  <testcase name="loginPositiveTestProps" classname="LoginTests" time="1.134"/>
+  <system-out><![CDATA[11:30:10.414 [Test worker] INFO  manager.ApplicationManager -%PARSER_ERROR[kvp]- 
+11:30:14.560 [Test worker] INFO  manager.ApplicationManager -%PARSER_ERROR[kvp]- 
+]]></system-out>
+  <system-err><![CDATA[console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ilcarro.web.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ilcarro.web.app."
+]]></system-err>
+</testsuite>
